@@ -1,2 +1,2 @@
 # haikal_website
-about me, images, audio, videos
+this is the respository for the imd318 website for biodata, about me, audio, images and videos.
